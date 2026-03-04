@@ -33,6 +33,7 @@ from pyscf.pbc.scf import kghf
 from pyscf.pbc.scf import khf_ksymm
 from pyscf.pbc.scf import kuhf_ksymm
 from pyscf.pbc.scf import kghf_ksymm
+from pyscf.pbc.scf import chkfile
 from pyscf.pbc.scf import newton_ah
 from pyscf.pbc.scf import addons
 from pyscf.pbc.lib import kpts as libkpts
